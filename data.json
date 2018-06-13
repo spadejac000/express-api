@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Oak",
+    "color": "darkbrown"
+  },
+  {
+    "name": "Mahogany",
+    "color": "lightbrown"
+  },
+  {
+    "name": "Redwood",
+    "color": "red"
+  },
+  {
+    "name": "Blackwood",
+    "color": "black"
+  },
+  {
+    "name": "Evergreen",
+    "color": "green"
+  }
+]
